@@ -1,3 +1,3 @@
-module example.com/m
+module oneclickweb
 
 go 1.22.3
