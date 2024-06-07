@@ -22,6 +22,7 @@
       # "vscodevim.vim"
       "golang.go"
       "oven.bun-vscode"
+      "LaurentTreguier.vscode-simple-icons"
     ];
 
     # Enable previews
